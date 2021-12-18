@@ -1,4 +1,3 @@
-markdown: kramdown
 # DIY-DMCA-Database
 Searchable index of DMCA Database for content creators. [Visit Website](https://alanjacobmathew.github.io/DIY-DMCA-Database)
 
