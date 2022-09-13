@@ -18,3 +18,24 @@ If you'd like to suggest more websites please create a [pull request](https://gi
 </tr>
 
 ```
+Update: 2022-September
+
+When submiting data to json file use the following structure
+```
+    {
+      "DMCA Name" : "Google",
+      "url":"",
+      "DMCA complier" : "",
+      "DMCA Email" : "",
+      "Type" : ""
+    },
+    
+     {
+      "DMCA Name" : "Yahoo",
+      "url":"",
+      "DMCA complier" : "",
+      "DMCA Email" : "",
+      "Type" : ""
+    }
+```
+
