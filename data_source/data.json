@@ -41,6 +41,76 @@
       "DMCA complier" : "Yes",
       "DMCA Email" : "",
       "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "DocSend",
+      "url":"https://www.docsend.com/copyright-and-ip-policy/",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "Mega",
+      "url":"https://mega.nz/copyright",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "Microsoft Store ",
+      "url":"https://www.microsoft.com/en-us/concern/dmca",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "Microsoft Onedrive",
+      "url":"https://www.microsoft.com/en-us/concern/dmca",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host "
+    },
+    {
+      "DMCA Name" : "Microsoft Xbox Store",
+      "url":"https://www.microsoft.com/en-us/concern/dmca",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host "
+    },
+    {
+      "DMCA Name" : "Microsoft Minecraft Marketplace ",
+      "url":"https://www.microsoft.com/en-us/concern/dmca",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host "
+    },
+    {
+      "DMCA Name" : "Microsoft Bing ",
+      "url":"https://www.bing.com/webmaster/tools/contentremovalform/",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host "
+    },
+    {
+      "DMCA Name" : "Microsoft Ads ",
+      "url":"https://about.ads.microsoft.com/en-us/resources/policies/intellectual-property-concern-forms",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host "
+    },
+    {
+      "DMCA Name" : "Microsoft Start & MSN ",
+      "url":"https://msrc.microsoft.com/report/infringement",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host "
+    },
+    {
+      "DMCA Name" : "Microsoft Others ",
+      "url":"https://msrc.microsoft.com/report/infringement",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host "
     }
     
     
