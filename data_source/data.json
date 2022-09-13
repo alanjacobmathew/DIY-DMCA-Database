@@ -1,12 +1,50 @@
 {
   "src" : [
     {
-      "DMCA Page" : "",
-      "url":"",
-      "DMCA complier" : "",
+      "DMCA Name" : "Google",
+      "url":"https://support.google.com/legal/troubleshooter/1114905https://support.google.com/legal/troubleshooter/1114905",
+      "DMCA complier" : "Yes,
       "DMCA Email" : "",
-      "Type" : ""
+      "Type" : "Search Engine"
+    },
+    {
+      "DMCA Name" : "Blogspot",
+      "url":"https://support.google.com/legal/troubleshooter/1114905https://support.google.com/legal/troubleshooter/1114905",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "Google Drive",
+      "url":"https://support.google.com/legal/troubleshooter/1114905https://support.google.com/legal/troubleshooter/1114905",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Web Host"
+    },
+    {
+      "DMCA Name" : "Yahoo",
+      "url":"https://www.yahooinc.com/ipr/en-US/forms/copyright",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Search Engine"
+    },
+    {
+      "DMCA Name" : "Apple",
+      "url":"https://www.apple.com/legal/contact/copyright-infringement.html",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "copyrightnotices@apple.com",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "Dropbox",
+      "url":"https://www.dropbox.com/dmca",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host"
     }
+    
+    
+    
     
   
   
