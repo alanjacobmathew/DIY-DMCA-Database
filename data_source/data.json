@@ -144,23 +144,39 @@
       "DMCA Name" : "Twitter ",
       "url":"https://help.twitter.com/en/forms/ipi/dmca/copyright-owner/redirect",
       "DMCA complier" : "Yes",
-      "DMCA Email" : "ip@fb.com",
+      "DMCA Email" : " ",
       "Type" : "Social Media "
     },
     {
       "DMCA Name" : "Overdrive ",
       "url":"https://overdrivefree.com/dmca-policy",
       "DMCA complier" : "Yes",
-      "DMCA Email" : "ip@fb.com",
+      "DMCA Email" : " ",
       "Type" : "Content Host "
     },
      {
       "DMCA Name" : "Therx/ Overdrive Marketing ",
       "url":"https://www.therx.com/dmca/",
       "DMCA complier" : "Yes",
-      "DMCA Email" : "ip@fb.com",
+      "DMCA Email" : "",
+      "Type" : "Content Host "
+    },
+    {
+      "DMCA Name" : "Internet Archive ",
+      "url":"https://archive.org/",
+      "DMCA complier" : " ",
+      "DMCA Email" : "info@archive.org",
+      "Type" : "Content Host "
+    },
+    {
+      "DMCA Name" : "Instagram ",
+      "url":"https://help.instagram.com/contact/552695131608132",
+      "DMCA complier" : "Yes ",
+      "DMCA Email" : "ip@instagram.com",
       "Type" : "Content Host "
     }
+   
+    
     
     
     
