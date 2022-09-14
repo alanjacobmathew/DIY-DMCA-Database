@@ -111,6 +111,20 @@
       "DMCA complier" : "Yes",
       "DMCA Email" : "",
       "Type" : "Content Host "
+    },
+    {
+      "DMCA Name" : "Youtube ",
+      "url":"https://support.google.com/youtube/answer/2807622",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host "
+    },
+    {
+      "DMCA Name" : "Facebook ",
+      "url":"httpshttps://www.facebook.com/help/190268144407210",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "ip@fb.com",
+      "Type" : "Social Media "
     }
     
     
