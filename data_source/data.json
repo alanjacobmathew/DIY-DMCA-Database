@@ -135,10 +135,31 @@
     },
     {
       "DMCA Name" : "Facebook ",
-      "url":"httpshttps://www.facebook.com/help/190268144407210",
+      "url":"https://www.facebook.com/help/190268144407210",
       "DMCA complier" : "Yes",
       "DMCA Email" : "ip@fb.com",
       "Type" : "Social Media "
+    },
+    {
+      "DMCA Name" : "Twitter ",
+      "url":"https://help.twitter.com/en/forms/ipi/dmca/copyright-owner/redirect",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "ip@fb.com",
+      "Type" : "Social Media "
+    },
+    {
+      "DMCA Name" : "Overdrive ",
+      "url":"https://overdrivefree.com/dmca-policy",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "ip@fb.com",
+      "Type" : "Content Host "
+    },
+     {
+      "DMCA Name" : "Therx/ Overdrive Marketing ",
+      "url":"https://www.therx.com/dmca/",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "ip@fb.com",
+      "Type" : "Content Host "
     }
     
     
