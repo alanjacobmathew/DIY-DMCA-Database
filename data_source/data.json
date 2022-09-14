@@ -111,6 +111,34 @@
       "DMCA complier" : "Yes",
       "DMCA Email" : "",
       "Type" : "Content Host "
+    },
+     {
+      "DMCA Name" : "Amazon Web Services (AWS) ",
+      "url":"https://aws.amazon.com/premiumsupport/knowledge-center/submit-dmca-notice/",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "abuse@amazonaws.com",
+      "Type" : "Web Host "
+    },
+    {
+      "DMCA Name" : "MediaFire",
+      "url":"https://www.mediafire.com/policy_violation/copyright.php",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "abuse@mediafire.com",
+      "Type" : "File Host "
+    },
+    {
+      "DMCA Name" : "Youtube ",
+      "url":"https://support.google.com/youtube/answer/2807622",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host "
+    },
+    {
+      "DMCA Name" : "Facebook ",
+      "url":"httpshttps://www.facebook.com/help/190268144407210",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "ip@fb.com",
+      "Type" : "Social Media "
     }
     
     
