@@ -237,6 +237,48 @@
       "DMCA complier" : "Yes",
       "DMCA Email" : "dmca@tumblr.com",
       "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "2Shared",
+      "url":"https://www.2shared.com/dmca.jsp",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "abuse@2shared.com",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "depositfiles",
+      "url":"https://depositfiles.com/copyright_policy.html",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "dmca@depositfiles.com",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "Usenet.nl",
+      "url":"https://en.usenet.nl/unf/shop/misc/miscShowDMCA.cfm",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "https://en.usenet.nl/unf/shop/misc/miscShowDMCA.cfm",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "Box",
+      "url":"https://www.box.com/legal/dmca",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "Keep2Share",
+      "url":"https://k2s.cc/abuse.html",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "abuse@Keep2Share.cc",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "Rapidgator",
+      "url":"https://rapidgator.net/article/intellectPolicy",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "abuse@Rapidgator.net",
+      "Type" : "Content Host"
     }
     
     
