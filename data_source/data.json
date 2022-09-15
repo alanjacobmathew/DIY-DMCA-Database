@@ -195,7 +195,50 @@
       "DMCA complier" : "Yes ",
       "DMCA Email" : "support@gitbook.com",
       "Type" : "Content Host "
+    },
+    {
+      "DMCA Name" : "Uploaded",
+      "url":"http://uploaded.net/takedown/notice",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "Fiverr",
+      "url":"https://www.fiverr.com/intellectual-property",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "DMCA@fiverr.com",
+      "Type" : ""
+    },
+    {
+      "DMCA Name" : "Twitch",
+      "url":"https://www.twitch.tv/p/en/legal/dmca-guidelines/",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "Zippyshare",
+      "url":"https://www.zippyshare.com/sites/dmca.html",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "abuse@zippyshare.com",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "WordPress.com",
+      "url":"https://automattic.com/copyright-policy/",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "Tumblr",
+      "url":"https://www.tumblr.com/dmca",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "dmca@tumblr.com",
+      "Type" : "Content Host"
     }
+    
     
    
     
