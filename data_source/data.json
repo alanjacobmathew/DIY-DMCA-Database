@@ -279,6 +279,27 @@
       "DMCA complier" : "Yes",
       "DMCA Email" : "abuse@Rapidgator.net",
       "Type" : "Content Host"
+    },
+    {
+      "DMCA Name" : "Seedr",
+      "url":"https://www.seedr.cc/dynamic/dmca",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "File Host"
+    },
+    {
+      "DMCA Name" : "Telegram",
+      "url":"https://t.me/dmcatelegram",
+      "DMCA complier" : "",
+      "DMCA Email" : "abuse@telegram.org",
+      "Type" : "Chat/Messaging App"
+    },
+    {
+      "DMCA Name" : "Reddit",
+      "url":"https://reddit.zendesk.com/hc/en-us/requests/new?ticket_form_id=73465",
+      "DMCA complier" : "Yes",
+      "DMCA Email" : "",
+      "Type" : "Social Media"
     }
     
     
