@@ -1,304 +1,304 @@
 {
   "src" : [
     {
-      "DMCA Name" : "Google",
-      "url":"https://support.google.com/legal/troubleshooter/1114905https://support.google.com/legal/troubleshooter/1114905",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "name" : "Google",
+      "url":"https://support.google.com/legal/troubleshooter/1114905",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Search Engine"
     },
     {
-      "DMCA Name" : "Blogspot",
-      "url":"https://support.google.com/legal/troubleshooter/1114905https://support.google.com/legal/troubleshooter/1114905",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "name" : "Blogspot",
+      "url":"https://support.google.com/legal/troubleshooter/1114905",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "Google Drive",
-      "url":"https://support.google.com/legal/troubleshooter/1114905https://support.google.com/legal/troubleshooter/1114905",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "name" : "Google Drive",
+      "url":"https://support.google.com/legal/troubleshooter/1114905",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Web Host"
     },
     {
-      "DMCA Name" : "Yahoo",
+      "name" : "Yahoo",
       "url":"https://www.yahooinc.com/ipr/en-US/forms/copyright",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Search Engine"
     },
     {
-      "DMCA Name" : "Apple",
+      "name" : "Apple",
       "url":"https://www.apple.com/legal/contact/copyright-infringement.html",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "copyrightnotices@apple.com",
+      "complier" : "Yes",
+      "email" : "copyrightnotices@apple.com",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "Dropbox",
+      "name" : "Dropbox",
       "url":"https://www.dropbox.com/dmca",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "DocSend",
+      "name" : "DocSend",
       "url":"https://www.docsend.com/copyright-and-ip-policy/",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "Mega",
+      "name" : "Mega",
       "url":"https://mega.nz/copyright",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "Microsoft Store ",
+      "name" : "Microsoft Store ",
       "url":"https://www.microsoft.com/en-us/concern/dmca",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "Microsoft Onedrive",
+      "name" : "Microsoft Onedrive",
       "url":"https://www.microsoft.com/en-us/concern/dmca",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host "
     },
     {
-      "DMCA Name" : "Microsoft Xbox Store",
+      "name" : "Microsoft Xbox Store",
       "url":"https://www.microsoft.com/en-us/concern/dmca",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host "
     },
     {
-      "DMCA Name" : "Microsoft Minecraft Marketplace ",
+      "name" : "Microsoft Minecraft Marketplace ",
       "url":"https://www.microsoft.com/en-us/concern/dmca",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host "
     },
     {
-      "DMCA Name" : "Microsoft Bing ",
+      "name" : "Microsoft Bing ",
       "url":"https://www.bing.com/webmaster/tools/contentremovalform/",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host "
     },
     {
-      "DMCA Name" : "Microsoft Ads ",
+      "name" : "Microsoft Ads ",
       "url":"https://about.ads.microsoft.com/en-us/resources/policies/intellectual-property-concern-forms",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host "
     },
     {
-      "DMCA Name" : "Microsoft Start & MSN ",
+      "name" : "Microsoft Start & MSN ",
       "url":"https://msrc.microsoft.com/report/infringement",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host "
     },
     {
-      "DMCA Name" : "Microsoft Others ",
+      "name" : "Microsoft Others ",
       "url":"https://msrc.microsoft.com/report/infringement",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host "
     },
      {
-      "DMCA Name" : "Amazon Web Services (AWS) ",
+      "name" : "Amazon Web Services / AWS ",
       "url":"https://aws.amazon.com/premiumsupport/knowledge-center/submit-dmca-notice/",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "abuse@amazonaws.com",
+      "complier" : "Yes",
+      "email" : "abuse@amazonaws.com",
       "Type" : "Web Host "
     },
     {
-      "DMCA Name" : "MediaFire",
+      "name" : "MediaFire",
       "url":"https://www.mediafire.com/policy_violation/copyright.php",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "abuse@mediafire.com",
+      "complier" : "Yes",
+      "email" : "abuse@mediafire.com",
       "Type" : "File Host "
     },
     {
-      "DMCA Name" : "Youtube ",
+      "name" : "Youtube ",
       "url":"https://support.google.com/youtube/answer/2807622",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host "
     },
     {
-      "DMCA Name" : "Facebook ",
+      "name" : "Facebook ",
       "url":"https://www.facebook.com/help/190268144407210",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "ip@fb.com",
+      "complier" : "Yes",
+      "email" : "ip@fb.com",
       "Type" : "Social Media "
     },
     {
-      "DMCA Name" : "Twitter ",
+      "name" : "Twitter ",
       "url":"https://help.twitter.com/en/forms/ipi/dmca/copyright-owner/redirect",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : " ",
+      "complier" : "Yes",
+      "email" : " ",
       "Type" : "Social Media "
     },
     {
-      "DMCA Name" : "Overdrive ",
+      "name" : "Overdrive ",
       "url":"https://overdrivefree.com/dmca-policy",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : " ",
+      "complier" : "Yes",
+      "email" : " ",
       "Type" : "Content Host "
     },
      {
-      "DMCA Name" : "Therx/ Overdrive Marketing ",
+      "name" : "Therx/ Overdrive Marketing ",
       "url":"https://www.therx.com/dmca/",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host "
     },
     {
-      "DMCA Name" : "Internet Archive ",
+      "name" : "Internet Archive ",
       "url":"https://archive.org/",
-      "DMCA complier" : " ",
-      "DMCA Email" : "info@archive.org",
+      "complier" : " ",
+      "email" : "info@archive.org",
       "Type" : "Content Host "
     },
     {
-      "DMCA Name" : "Instagram ",
+      "name" : "Instagram ",
       "url":"https://help.instagram.com/contact/552695131608132",
-      "DMCA complier" : "Yes ",
-      "DMCA Email" : "ip@instagram.com",
+      "complier" : "Yes ",
+      "email" : "ip@instagram.com",
       "Type" : "Content Host "
     },
     {
-      "DMCA Name" : "Github ",
+      "name" : "Github ",
       "url":"https://github.com/contact/dmca",
-      "DMCA complier" : "Yes ",
-      "DMCA Email" : "",
+      "complier" : "Yes ",
+      "email" : "",
       "Type" : "Content Host "
     },
     {
-      "DMCA Name" : "Userscloud ",
+      "name" : "Userscloud ",
       "url":"https://userscloud.com/dmca.html",
-      "DMCA complier" : "Yes ",
-      "DMCA Email" : "userscloud.copyright@gmail.com",
+      "complier" : "Yes ",
+      "email" : "userscloud.copyright@gmail.com",
       "Type" : "Content Host "
     }, 
     {
-      "DMCA Name" : "Gitbook",
+      "name" : "Gitbook",
       "url":"https://policies.gitbook.com/dmca-takedown-policy/guide-to-submitting-a-dmca-takedown-notice",
-      "DMCA complier" : "Yes ",
-      "DMCA Email" : "support@gitbook.com",
+      "complier" : "Yes ",
+      "email" : "support@gitbook.com",
       "Type" : "Content Host "
     },
     {
-      "DMCA Name" : "Uploaded",
+      "name" : "Uploaded",
       "url":"http://uploaded.net/takedown/notice",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "Fiverr",
+      "name" : "Fiverr",
       "url":"https://www.fiverr.com/intellectual-property",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "DMCA@fiverr.com",
+      "complier" : "Yes",
+      "email" : "DMCA@fiverr.com",
       "Type" : ""
     },
     {
-      "DMCA Name" : "Twitch",
+      "name" : "Twitch",
       "url":"https://www.twitch.tv/p/en/legal/dmca-guidelines/",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "Zippyshare",
+      "name" : "Zippyshare",
       "url":"https://www.zippyshare.com/sites/dmca.html",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "abuse@zippyshare.com",
+      "complier" : "Yes",
+      "email" : "abuse@zippyshare.com",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "WordPress.com",
+      "name" : "WordPress.com",
       "url":"https://automattic.com/copyright-policy/",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "Tumblr",
+      "name" : "Tumblr",
       "url":"https://www.tumblr.com/dmca",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "dmca@tumblr.com",
+      "complier" : "Yes",
+      "email" : "dmca@tumblr.com",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "2Shared",
+      "name" : "2Shared",
       "url":"https://www.2shared.com/dmca.jsp",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "abuse@2shared.com",
+      "complier" : "Yes",
+      "email" : "abuse@2shared.com",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "depositfiles",
+      "name" : "depositfiles",
       "url":"https://depositfiles.com/copyright_policy.html",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "dmca@depositfiles.com",
+      "complier" : "Yes",
+      "email" : "dmca@depositfiles.com",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "Usenet.nl",
+      "name" : "Usenet.nl",
       "url":"https://en.usenet.nl/unf/shop/misc/miscShowDMCA.cfm",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "https://en.usenet.nl/unf/shop/misc/miscShowDMCA.cfm",
+      "complier" : "Yes",
+      "email" : "https://en.usenet.nl/unf/shop/misc/miscShowDMCA.cfm",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "Box",
+      "name" : "Box",
       "url":"https://www.box.com/legal/dmca",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "Keep2Share",
+      "name" : "Keep2Share",
       "url":"https://k2s.cc/abuse.html",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "abuse@Keep2Share.cc",
+      "complier" : "Yes",
+      "email" : "abuse@Keep2Share.cc",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "Rapidgator",
+      "name" : "Rapidgator",
       "url":"https://rapidgator.net/article/intellectPolicy",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "abuse@Rapidgator.net",
+      "complier" : "Yes",
+      "email" : "abuse@Rapidgator.net",
       "Type" : "Content Host"
     },
     {
-      "DMCA Name" : "Seedr",
+      "name" : "Seedr",
       "url":"https://www.seedr.cc/dynamic/dmca",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "File Host"
     },
     {
-      "DMCA Name" : "Telegram",
+      "name" : "Telegram",
       "url":"https://t.me/dmcatelegram",
-      "DMCA complier" : "",
-      "DMCA Email" : "abuse@telegram.org",
+      "complier" : "",
+      "email" : "abuse@telegram.org",
       "Type" : "Chat/Messaging App"
     },
     {
-      "DMCA Name" : "Reddit",
+      "name" : "Reddit",
       "url":"https://reddit.zendesk.com/hc/en-us/requests/new?ticket_form_id=73465",
-      "DMCA complier" : "Yes",
-      "DMCA Email" : "",
+      "complier" : "Yes",
+      "email" : "",
       "Type" : "Social Media"
     }
     
