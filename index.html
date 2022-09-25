@@ -1,331 +1,54 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<title>DIY-DMCA-Database</title>
-
-<link href = "https://fonts.googleapis.com/css?family=Montserrat+Sans:400,900&display=swap" rel="stylesheet">
-
-<style>
-
-.vert-scroll {
-  
-  height: 390px;
-  overflow-y: scroll;
-}
-
-.credit {
-  allign: center
-  width:60%;
-  font-size: 14px;
-  padding: 1px 1px 1px 1px;
-  border: 1px solid #ddd;
-  }
-
-* {
-  box-sizing: border-box;
-}
-body,#dbInput{text-align: center;}
-#dbInput {
-  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Vector_search_icon.svg/221px-Vector_search_icon.svg.png');
-  background-position: 10px 10px;;
-  background-repeat: no-repeat;
-  background-size: 25px;
-  width: 60%;
-  font-size: 18px;
-  padding: 12px 20px 12px 40px;
-  border: 1px solid #ddd;
-  margin-bottom: 12px;
-  border-radius: 25px;
-}
-#dbInput:focus {
-  outline: none;
-}
-#dbTable {
-  border-collapse: collapse;
-  width: 80%;
-  border: 2px solid #000;
-  font-size: 18px;
-  margin-bottom:40px;
-}
-#dbTable th {
-  position: sticky;
-  top: 0;
-  border-bottom: 2px solid #000;
-  background-color: #f2f2f2;
-}
-
-#dbTable th, #dbTable td {
-  
-  text-align: center;
-  padding: 12px;
-}
+	<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title> DIY DMCA Database</title>
+	 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/typeahead-standalone/dist/basic.css" /> 
+	  <link rel="stylesheet" href="style.css">
+	  
+	
+	
+	
+	</head>
 
 
+	<body>
+	
+		<script src="https://cdn.jsdelivr.net/npm/typeahead-standalone"></script>
+		
+		<div class="main_container" >
+			<h1 class="nav"> DIY DMCA DATABASE </h1>
+			<h5>Search Database by Name(eg: Apple, Google, Userscloud)</h5>
+		
+			<div class="container input-container" >
+			<input type="search" class="searchterm" autocomplete="off" placeholder="Search DMCA Database ..." > 
+			
+			<div id="enterArg"><p>Please click enter after suggestions</p></div> 
+			<div id="myData" ;></div> 
+			</div>
+		</div>
+		<footer>
+			<div class="credit">
 
-#dbTable tr {
-  border-bottom: 1px solid #ddd;
-
-}
- #dbTable tr:hover {
-  background-color: #f2f2f2;
-  
-}
-a {
-  color: #f51242;
-}
-h5, h6, h1, p {
-  font-family: 'Montserrat', sans-serif;
-  
-}
-
-</style>
-</head>
-
-<body>
-</br><h1><b><a href="#">DIY DMCA Database</b></a></h1>
-<h5>Search Database by Name(eg: Userscloud, Uploaded)</h5>
-<div class="centerenter">
-<input type="text" id="dbInput" onkeyup="searchFunction()" placeholder="search by name" title="Database Search">
-</div>
-<div class="vert-scroll">
-
-<table id="dbTable" align="center">
-<tr class = "header">
-<th style="width:25%;">DMCA Page</th>
-<th style="width:25%;">DMCA Complier</th>
-<th style="width:25%;">DMCA Email</th>
-<th style="width:25%;">Type </th>  
-</tr>
-
-
-<tr>
-<td><a href="https://support.google.com/legal/troubleshooter/1114905" target="_blank">Google/Blogspot/Drive</a></td>
-<td>Yes</td>
-<td> Not Available</td>
-<td>Search Engine | Content Host | Web Host</td>
-</tr>
-
-<tr>
-<td><a href="https://www.yahooinc.com/ipr/en-US/forms/copyright" target="_blank">Yahoo</a></td>
-<td>Yes</td>
-<td>Not Available</td>
-<td>Search Engine</td>
-</tr>
-<tr>
-<td><a href="https://www.apple.com/legal/contact/copyright-infringement.html" target="_blank">Apple</a></td>
-<td>Yes</td>
-<td>copyrightnotices@apple.com</td>
-<td>Content host</td>
-</tr>
-<tr>
-<td><a href="https://www.dropbox.com/dmca" target="_blank">DropBox</a></td>
-<td>Yes</td>
-<td>-</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://www.docsend.com/copyright-and-ip-policy/" target="_blank">DocSend</a></td>
-<td>Yes</td>
-<td>-</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://mega.nz/copyright" target="_blank">Mega</a></td>
-<td>Yes</td>
-<td>-</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://www.microsoft.com/en-us/legal/intellectualproperty/infringement" target="_blank">Microsoft/OneDrive/Azure/Bing</a></td>
-<td>Yes</td>
-<td>dmcaagnt@microsoft.com</td>
-<td>Search Engine | Content Host | Web Host</td>
-</tr>
-<tr>
-<td><a href="https://aws.amazon.com/premiumsupport/knowledge-center/submit-dmca-notice/" target="_blank">AWS</a></td>
-<td>Yes</td>
-<td>abuse@amazonaws.com</td>
-<td>Web Host</td>
-</tr>
-<tr>
-<td><a href="https://www.mediafire.com/policy_violation/copyright.php" target="_blank">MediaFire</a></td>
-<td>Yes</td>
-<td>abuse@mediafire.com</td>
-<td>File host</td>
-</tr>
-<tr>
-<td><a href="https://support.google.com/youtube/answer/2807622" target="_blank">Youtube</a></td>
-<td>Yes</td>
-<td>-</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://www.facebook.com/help/190268144407210/" target="_blank">FaceBook</a></td>
-<td>Yes</td>
-<td>ip@fb.com</td>
-<td>Social Media</td>
-</tr>
-<tr>
-<td><a href="https://help.twitter.com/en/forms/ipi/dmca/copyright-owner/redirect.html" target="_blank">Twitter</a></td>
-<td>Yes</td>
-<td>-</td>
-<td>Social Media</td>
-</tr>
-<tr>
-<td><a href="http://www.contentreserve.com/DMCA_Policy.asp" target="_blank">OverDrive</a></td>
-<td>Yes</td>
-<td>-</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://www.therx.com/dmca/" target="_blank">Therx/Overdrive Marketing, Inc.</a></td>
-<td>Yes</td>
-<td>-</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://archive.org/" target="_blank">Web Archive</a></td>
-<td>-</td>
-<td>info@archive.org</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://help.instagram.com/contact/552695131608132" target="_blank">Instagram</a></td>
-<td>Yes</td>
-<td>ip@instagram.com</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://github.com/contact/dmca" target="_blank">GitHub</a></td>
-<td>Yes</td>
-<td>-</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://userscloud.com/dmca.html" target="_blank">Userscloud</a></td>
-<td>Yes</td>
-<td>userscloud.copyright@gmail.com</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://policies.gitbook.com/dmca-takedown-policy/guide-to-submitting-a-dmca-takedown-notice" target="_blank">GitBook</a></td>
-<td>Yes</td>
-<td>support@gitbook.com</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="http://uploaded.net/takedown/notice" target="_blank">Uploaded</a></td>
-<td>Yes</td>
-<td>-</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://www.fiverr.com/intellectual-property" target="_blank">Fiverr</a></td>
-<td>Yes</td>
-<td>DMCA@fiverr.com</td>
-<td>-</td>
-</tr>
-<tr>
-<td><a href="https://www.twitch.tv/p/en/legal/dmca-guidelines/" target="_blank">Twitch</a></td>
-<td>Yes</td>
-<td>-</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://www.zippyshare.com/sites/dmca.html" target="_blank">Zippyshare</a></td>
-<td>Yes</td>
-<td>abuse@zippyshare.com</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://automattic.com/copyright-policy/" target="_blank">WordPress.com/Automattic</a></td>
-<td>Yes</td>
-<td>-</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://www.2shared.com/dmca.jsp" target="_blank">2shared</a></td>
-<td>Yes</td>
-<td>abuse@2shared.com</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://depositfiles.com/copyright_policy.html" target="_blank">depositfiles</a></td>
-<td>Yes</td>
-<td>dmca@depositfiles.com</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://en.usenet.nl/unf/shop/misc/miscShowDMCA.cfm" target="_blank">usenet.nl</a></td>
-<td>Yes</td>
-<td>dmca@usenet.nl</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://www.box.com/legal/dmca" target="_blank">box</a></td>
-<td>Yes</td>
-<td>-</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://k2s.cc/abuse.html" target="_blank">Keep2Share</a></td>
-<td>Yes</td>
-<td>abuse@Keep2Share.cc</td>
-<td>Content Host</td>
-</tr>
-<tr>
-<td><a href="https://rapidgator.net/article/intellectPolicy" target="_blank">Rapidgator</a></td>
-<td>Yes</td>
-<td>abuse@Rapidgator.net</td>
-<td>Content Host</td>
-</tr>
-
-
-
-
-
-</table>
-</div>
-
-<div class="credit">
-
-<br>This project is maintained by <a href ="https://github.com/alanjacobmathew/" target="_blank">Alan Jacob Mathew</a>.&#32;Errors and missing data should be reported on<a href = "https://github.com/alanjacobmathew/DIY-DMCA-Database" target="_blank"> GitHub</a><br> Currently in Work In Progress stage.&#32;
-
-
+			<p>Errors and missing data should be reported on <a href = "https://github.com/alanjacobmathew/DIY-DMCA-Database" target="_blank">GitHub</a></p>
+			<p> Copyright &copy; <script>document.write( new Date().getFullYear() );</script><a href="https://github.com/alanjacobmathew/" target="_blank"> Alan Jacob Mathew</a>&emsp;<a href="https://github.com/alanjacobmathew/DIY-DMCA-Database/blob/main/LICENSE.txt" target="_blank">License </a> </p>
+				
+			
 
 </div>
-<script>function searchFunction() {
-  // Declare starting variables
-  var input, filter, table,trs,i,td;
-   input = document.getElementById("dbInput");
-   filter = input.value.toUpperCase();
-   table = document.getElementById("dbTable");
-   tru = table.tBodies[0].getElementsByTagName("tr");
-  // Loop through rows
-  for ( i = 1; i < tru.length; i++) {
-    // Define the cells
-     tds = tru[i].getElementsByTagName("td");
-    // hide the row
-    tru[i].style.display = "none";
-    // loop through row cells
-    for ( i2 = 0; i2 < tds.length; i2++) {
-      // if there's a match
-      if (tds[i2].innerHTML.toUpperCase().indexOf(filter) > -1) {
-        // show the row
-        tru[i].style.display = "";
-        // skip to the next row
-        continue;
-      } 
-    }
-  }
-}
-</script>
+
+			
+			
+			</footer>
+		
+		<script> 
+		  		  
+		</script>	
+		
+		<script  src="script.js"></script>
+		
+	</body>
 
 
-
-</body>
 </html>
-
-
