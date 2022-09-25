@@ -28,7 +28,7 @@ templates: {
     ),
     
 header: () => 'Website Name',
-notFound: () => 'Sorry, that website is not in our database <br> Please report it <a href="#"> here</a> ',
+notFound: () => 'Sorry, that website is not in our database <br> Please report it <a href="https://github.com/alanjacobmathew/DIY-DMCA-Database/issues"> here</a> ',
 
 },
 onSubmit: (e, selectedSuggestion) => {
