@@ -27,8 +27,8 @@ templates: {
     </div>`
     ),
     
-header: () => 'Company Name',
-notFound: () => 'Sorry, that company is not in our database <br> Please report it <a href="#"> here</a> ',
+header: () => 'Website Name',
+notFound: () => 'Sorry, that website is not in our database <br> Please report it <a href="#"> here</a> ',
 
 },
 onSubmit: (e, selectedSuggestion) => {
