@@ -1,31 +1,32 @@
-{
+{ "Copyright" : "Alan Jacob Mathew",
+  "License "  : "",
   "src" : [
     {
       "name" : "Google",
       "url":"https://support.google.com/legal/troubleshooter/1114905",
       "complier" : "Yes",
-      "email" : "",
+      "email" : "  ",
       "Type" : "Search Engine"
     },
     {
       "name" : "Blogspot",
       "url":"https://support.google.com/legal/troubleshooter/1114905",
       "complier" : "Yes",
-      "email" : "",
+      "email" : "  ",
       "Type" : "Content Host"
     },
     {
       "name" : "Google Drive",
       "url":"https://support.google.com/legal/troubleshooter/1114905",
       "complier" : "Yes",
-      "email" : "",
+      "email" : "  ",
       "Type" : "Web Host"
     },
     {
       "name" : "Yahoo",
       "url":"https://www.yahooinc.com/ipr/en-US/forms/copyright",
       "complier" : "Yes",
-      "email" : "",
+      "email" : "  ",
       "Type" : "Search Engine"
     },
     {
@@ -46,7 +47,7 @@
       "name" : "DocSend",
       "url":"https://www.docsend.com/copyright-and-ip-policy/",
       "complier" : "Yes",
-      "email" : "",
+      "email" : "  ",
       "Type" : "Content Host"
     },
     {
